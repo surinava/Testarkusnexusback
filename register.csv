@@ -1,0 +1,11 @@
+﻿Test,email,name,role,team,password,Expect
+Email empty,,Suri Nava,super-admin,training team,Sonora78,400
+Email with out @,surinavagmail.com,Suri Nava,super-admin,training team,Sonora78,400
+Email @,@,Suri Nava,super-admin,training team,Sonora78,400
+name Emty,surinava@gmail.com,,super-admin,training team,Sonora78,400
+name special characters,surinava@gmail.com,!@#$%^%*(,super-admin,training team,Sonora78,400
+role Empty,surinava@gmail.com,Suri Nava,,training team,Sonora78,400
+Role not exist,surinava@gmail.com,Suri Nava,super-Suri,training team,Sonora78,400
+Role special characters,surinava@gmail.com,Suri Nava,#4355$%&^^,training team,Sonora78,400
+Team empty,surinava@gmail.com,Suri Nava,super-admin,,Sonora78,400
+Password empty,surinava@gmail.com,Suri Nava,super-admin,training team,,400

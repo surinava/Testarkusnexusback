@@ -1,0 +1,4 @@
+﻿,techSkills,englishLevel,email,name,password,,
+email empty,techSkills,englishLevel,,name,Sonora78,,
+email with out @,techSkills,englishLevel,test3test.com,name,,,
+password empty,techSkills,englishLevel,test3@test.com,name,,,
